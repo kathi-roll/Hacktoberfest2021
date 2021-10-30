@@ -1,3 +1,3 @@
 # Hactoberfest2021
-contribute here for fest
+Contribute here for fest
 And add a label hacktoberfest-accepted
